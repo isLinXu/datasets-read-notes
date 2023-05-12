@@ -1,16 +1,11 @@
-# Datasets-Read-Notes
+# 数据集学习整理笔记合集
 
 ---
-
-## 项目介绍
-
-数据集整理阅读笔记。
-
-### 项目简介
 
 ```{toctree}
 :maxdepth: 2
 :caption: 目录
+datasets/index.md
 ```
 
 

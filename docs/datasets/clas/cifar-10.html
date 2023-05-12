@@ -9,7 +9,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.18.1: http://docutils.sourceforge.net/" />
 
-    <title>数据集学习整理笔记合集 &#8212; 数据集阅读学习笔记</title>
+    <title>CIFAR-10 &#8212; 数据集阅读学习笔记</title>
   
   
   
@@ -19,36 +19,37 @@
   </script>
   
   <!-- Loaded before other Sphinx assets -->
-  <link href="_static/styles/theme.css?digest=12da95d707ffb74b382d" rel="stylesheet" />
-<link href="_static/styles/bootstrap.css?digest=12da95d707ffb74b382d" rel="stylesheet" />
-<link href="_static/styles/pydata-sphinx-theme.css?digest=12da95d707ffb74b382d" rel="stylesheet" />
+  <link href="../../_static/styles/theme.css?digest=12da95d707ffb74b382d" rel="stylesheet" />
+<link href="../../_static/styles/bootstrap.css?digest=12da95d707ffb74b382d" rel="stylesheet" />
+<link href="../../_static/styles/pydata-sphinx-theme.css?digest=12da95d707ffb74b382d" rel="stylesheet" />
 
   
-  <link href="_static/vendor/fontawesome/6.1.2/css/all.min.css?digest=12da95d707ffb74b382d" rel="stylesheet" />
-  <link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.1.2/webfonts/fa-solid-900.woff2" />
-<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.1.2/webfonts/fa-brands-400.woff2" />
-<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.1.2/webfonts/fa-regular-400.woff2" />
+  <link href="../../_static/vendor/fontawesome/6.1.2/css/all.min.css?digest=12da95d707ffb74b382d" rel="stylesheet" />
+  <link rel="preload" as="font" type="font/woff2" crossorigin href="../../_static/vendor/fontawesome/6.1.2/webfonts/fa-solid-900.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="../../_static/vendor/fontawesome/6.1.2/webfonts/fa-brands-400.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="../../_static/vendor/fontawesome/6.1.2/webfonts/fa-regular-400.woff2" />
 
-    <link rel="stylesheet" type="text/css" href="_static/pygments.css" />
-    <link rel="stylesheet" href="_static/styles/sphinx-book-theme.css?digest=14f4ca6b54d191a8c7657f6c759bf11a5fb86285" type="text/css" />
-    <link rel="stylesheet" type="text/css" href="_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css" />
-    <link rel="stylesheet" type="text/css" href="_static/plot_directive.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/pygments.css" />
+    <link rel="stylesheet" href="../../_static/styles/sphinx-book-theme.css?digest=14f4ca6b54d191a8c7657f6c759bf11a5fb86285" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/plot_directive.css" />
   
   <!-- Pre-loaded scripts that we'll load fully later -->
-  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=12da95d707ffb74b382d" />
-<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=12da95d707ffb74b382d" />
+  <link rel="preload" as="script" href="../../_static/scripts/bootstrap.js?digest=12da95d707ffb74b382d" />
+<link rel="preload" as="script" href="../../_static/scripts/pydata-sphinx-theme.js?digest=12da95d707ffb74b382d" />
 
-    <script data-url_root="./" id="documentation_options" src="_static/documentation_options.js"></script>
-    <script src="_static/jquery.js"></script>
-    <script src="_static/underscore.js"></script>
-    <script src="_static/_sphinx_javascript_frameworks_compat.js"></script>
-    <script src="_static/doctools.js"></script>
-    <script src="_static/scripts/sphinx-book-theme.js?digest=5a5c038af52cf7bc1a1ec88eea08e6366ee68824"></script>
-    <script>DOCUMENTATION_OPTIONS.pagename = 'index';</script>
-    <link rel="shortcut icon" href="_static/panda.png"/>
-    <link rel="index" title="Index" href="genindex.html" />
-    <link rel="search" title="Search" href="search.html" />
-    <link rel="next" title="数据集学习" href="datasets/index.html" />
+    <script data-url_root="../../" id="documentation_options" src="../../_static/documentation_options.js"></script>
+    <script src="../../_static/jquery.js"></script>
+    <script src="../../_static/underscore.js"></script>
+    <script src="../../_static/_sphinx_javascript_frameworks_compat.js"></script>
+    <script src="../../_static/doctools.js"></script>
+    <script src="../../_static/scripts/sphinx-book-theme.js?digest=5a5c038af52cf7bc1a1ec88eea08e6366ee68824"></script>
+    <script>DOCUMENTATION_OPTIONS.pagename = 'datasets/clas/cifar-10';</script>
+    <link rel="shortcut icon" href="../../_static/panda.png"/>
+    <link rel="index" title="Index" href="../../genindex.html" />
+    <link rel="search" title="Search" href="../../search.html" />
+    <link rel="next" title="&lt;no title&gt;" href="cifar-100.html" />
+    <link rel="prev" title="【图像分类】" href="index.html" />
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta name="docsearch:language" content="en"/>
   </head>
@@ -76,7 +77,7 @@
     <div class="search-button__overlay"></div>
     <div class="search-button__search-container">
 <form class="bd-search d-flex align-items-center"
-      action="search.html"
+      action="../../search.html"
       method="get">
   <i class="fa-solid fa-magnifying-glass"></i>
   <input type="search"
@@ -114,7 +115,7 @@
         <div class="sidebar-primary-item">
   
 
-<a class="navbar-brand logo" href="#">
+<a class="navbar-brand logo" href="../../index.html">
   
   
   
@@ -124,24 +125,19 @@
       
     
     
-    <img src="_static/logo.png" class="logo__image only-light" alt="Logo image"/>
-    <script>document.write(`<img src="_static/logo.png" class="logo__image only-dark" alt="Logo image"/>`);</script>
+    <img src="../../_static/logo.png" class="logo__image only-light" alt="Logo image"/>
+    <script>document.write(`<img src="../../_static/logo.png" class="logo__image only-dark" alt="Logo image"/>`);</script>
   
   
 </a></div>
         <div class="sidebar-primary-item"><nav class="bd-links" id="bd-docs-nav" aria-label="Main">
     <div class="bd-toc-item navbar-nav active">
         <p aria-level="2" class="caption" role="heading"><span class="caption-text">目录</span></p>
-<ul class="nav bd-sidenav">
-<li class="toctree-l1 has-children"><a class="reference internal" href="datasets/index.html">数据集学习</a><input class="toctree-checkbox" id="toctree-checkbox-1" name="toctree-checkbox-1" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-1"><i class="fa-solid fa-chevron-down"></i></label><ul>
-<li class="toctree-l2 has-children"><a class="reference internal" href="datasets/clas/index.html">【图像分类】</a><input class="toctree-checkbox" id="toctree-checkbox-2" name="toctree-checkbox-2" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-2"><i class="fa-solid fa-chevron-down"></i></label><ul>
-<li class="toctree-l3"><a class="reference internal" href="datasets/clas/cifar-10.html"><strong>CIFAR-10</strong></a></li>
-<li class="toctree-l3"><a class="reference internal" href="datasets/clas/cifar-100.html">Cifar-100</a></li>
-<li class="toctree-l3"><a class="reference internal" href="datasets/clas/fashion.html">fashion</a></li>
-<li class="toctree-l3"><a class="reference internal" href="datasets/clas/imagenet.html">ImageNet</a></li>
-</ul>
-</li>
-<li class="toctree-l2 has-children"><a class="reference internal" href="datasets/det/index.html">【目标检测】</a><input class="toctree-checkbox" id="toctree-checkbox-3" name="toctree-checkbox-3" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-3"><i class="fa-solid fa-chevron-down"></i></label><ul class="simple">
+<ul class="current nav bd-sidenav">
+<li class="toctree-l1 current active has-children"><a class="reference internal" href="../index.html">数据集介绍学习</a><input checked="" class="toctree-checkbox" id="toctree-checkbox-1" name="toctree-checkbox-1" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-1"><i class="fa-solid fa-chevron-down"></i></label><ul class="current">
+<li class="toctree-l2 current active has-children"><a class="reference internal" href="index.html">【图像分类】</a><input checked="" class="toctree-checkbox" id="toctree-checkbox-2" name="toctree-checkbox-2" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-2"><i class="fa-solid fa-chevron-down"></i></label><ul class="current">
+<li class="toctree-l3 current active"><a class="current reference internal" href="#"><strong>CIFAR-10</strong></a></li>
+<li class="toctree-l3"><a class="reference internal" href="imagenet.html">ImageNet</a></li>
 </ul>
 </li>
 </ul>
@@ -217,7 +213,7 @@
       
       
       
-      <li><a href="https://github.com/isLinXu/datastes-read-notes/edit/main/index.md" target="_blank"
+      <li><a href="https://github.com/isLinXu/datastes-read-notes/edit/main/datasets/clas/cifar-10.md" target="_blank"
    class="btn btn-sm btn-source-edit-button dropdown-item"
    title="Suggest edit"
    data-bs-placement="left" data-bs-toggle="tooltip"
@@ -234,7 +230,7 @@
       
       
       
-      <li><a href="https://github.com/isLinXu/datastes-read-notes/issues/new?title=Issue%20on%20page%20%2Findex.html&body=Your%20issue%20content%20here." target="_blank"
+      <li><a href="https://github.com/isLinXu/datastes-read-notes/issues/new?title=Issue%20on%20page%20%2Fdatasets/clas/cifar-10.html&body=Your%20issue%20content%20here." target="_blank"
    class="btn btn-sm btn-source-issues-button dropdown-item"
    title="Open an issue"
    data-bs-placement="left" data-bs-toggle="tooltip"
@@ -264,7 +260,7 @@
       
       
       
-      <li><a href="_sources/index.md" target="_blank"
+      <li><a href="../../_sources/datasets/clas/cifar-10.md" target="_blank"
    class="btn btn-sm btn-download-source-button dropdown-item"
    title="Download source file"
    data-bs-placement="left" data-bs-toggle="tooltip"
@@ -344,7 +340,7 @@ document.write(`
               
 
 <div id="jb-print-docs-body" class="onlyprint">
-    <h1>数据集学习整理笔记合集</h1>
+    <h1>CIFAR-10</h1>
     <!-- Table of contents -->
     <div id="print-main-content">
         <div id="jb-print-toc">
@@ -358,19 +354,15 @@ document.write(`
 <div id="searchbox"></div>
                 <article class="bd-article" role="main">
                   
-  <section id="id1">
-<h1>数据集学习整理笔记合集<a class="headerlink" href="#id1" title="Permalink to this heading">#</a></h1>
-<hr class="docutils" />
-<div class="toctree-wrapper compound">
-<p aria-level="2" class="caption" role="heading"><span class="caption-text">目录</span></p>
-<ul>
-<li class="toctree-l1"><a class="reference internal" href="datasets/index.html">数据集学习</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="datasets/clas/index.html">【图像分类】</a></li>
-<li class="toctree-l2"><a class="reference internal" href="datasets/det/index.html">【目标检测】</a></li>
+  <section id="cifar-10">
+<h1><strong>CIFAR-10</strong><a class="headerlink" href="#cifar-10" title="Permalink to this heading">#</a></h1>
+<p>数据集（加拿大高级研究所，10类）是Tiny Images数据集的一个子集，由60000张32x32彩色图像组成。这些图像标有10个相互排斥的类别之一：飞机、汽车（但不包括卡车或皮卡）、鸟、猫、鹿、狗、青蛙、马、船和卡车（但不包括皮卡车）。每节课有6000张图片，每节课有5000张培训和1000张测试图片。</p>
+<p>确定图像是否属于一个类的标准如下：</p>
+<ul class="simple">
+<li><p>列别名称应该在“这张照片中有什么？”问题的可能答案列表中名列前茅。</p></li>
+<li><p>图像应该是照片逼真的。标签商被指示拒绝线条图。</p></li>
+<li><p>图像应该只包含类引用的对象的一个突出实例。只要标签员仍然清楚其身份，就可以部分遮挡或从不寻常的角度看到该物体。</p></li>
 </ul>
-</li>
-</ul>
-</div>
 </section>
 
 
@@ -382,12 +374,21 @@ document.write(`
                 <footer class="bd-footer-article">
                   <!-- Previous / next buttons -->
 <div class="prev-next-area">
+    <a class="left-prev"
+       href="index.html"
+       title="previous page">
+      <i class="fa-solid fa-angle-left"></i>
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">previous</p>
+        <p class="prev-next-title">【图像分类】</p>
+      </div>
+    </a>
     <a class="right-next"
-       href="datasets/index.html"
+       href="cifar-100.html"
        title="next page">
       <div class="prev-next-info">
         <p class="prev-next-subtitle">next</p>
-        <p class="prev-next-title">数据集学习</p>
+        <p class="prev-next-title">&lt;no title&gt;</p>
       </div>
       <i class="fa-solid fa-angle-right"></i>
     </a>
@@ -440,8 +441,8 @@ By isLinXu
   </div>
   
   <!-- Scripts loaded after <body> so the DOM is not blocked -->
-  <script src="_static/scripts/bootstrap.js?digest=12da95d707ffb74b382d"></script>
-<script src="_static/scripts/pydata-sphinx-theme.js?digest=12da95d707ffb74b382d"></script>
+  <script src="../../_static/scripts/bootstrap.js?digest=12da95d707ffb74b382d"></script>
+<script src="../../_static/scripts/pydata-sphinx-theme.js?digest=12da95d707ffb74b382d"></script>
 
   <footer class="bd-footer">
   </footer>
