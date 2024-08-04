@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "d67bd8eccdfffec6",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e21af7432d8595c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5150e8e5923b4a29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/datasets/index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "56ea460322d78f9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e79469c19324fad4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a7b41562bfd11fe9",
+    "type": "split",
+    "children": [
+      {
+        "id": "e72b9a9d7aba99cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "22fcdf12d1d28bf6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9e32fcf913d78b76",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6a7e039d17c3cb99",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "129072ce41c76baa",
+    "type": "split",
+    "children": [
+      {
+        "id": "a644308ebc2a1bc3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61ccc60cd85b2422",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "source/datasets/index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e64f2c1e5c8a2cf0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "source/datasets/index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "da6d5e9ee4516974",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "11b793da7b209cee",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "source/datasets/index.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "e79469c19324fad4",
+  "lastOpenFiles": [
+    "source/datasets/未命名.md",
+    "source/datasets/csv/未命名.md",
+    "source/datasets/csv/voc_category_csv.csv.sb-fb773894-Sj2mFf",
+    "source/datasets/csv/object365_v1_csv.csv.sb-fb773894-vj6MYY",
+    "source/datasets/csv/openimage_v6_category_csv.csv",
+    "source/datasets/csv/coco_category_csv.csv",
+    "source/datasets/csv/voc_category_csv.csv",
+    "source/datasets/csv/v3det_data_csv.csv.sb-fb773894-Vepiv7",
+    "source/datasets/csv/v3det_data_csv.csv",
+    "source/datasets/csv/object365_v1_csv.csv",
+    "source/datasets/csv/lvis_v1_data_csv.csv",
+    "source/datasets/index.md",
+    "source/datasets/csv",
+    "source/datasets/det/lvis.md",
+    "source/datasets/det/index.md",
+    "source/datasets/det/dict.md",
+    "source/datasets/det/coco.md",
+    "source/datasets/det/visiongenome.md"
+  ]
+}
