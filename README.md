@@ -1,5 +1,6 @@
 # datasets-read-notes
 
+<<<<<<< HEAD
 datasets-read-notes
 
 
@@ -249,3 +250,7 @@ https://huggingface.co/datasets?sort=likes&search=multimodal
 | NewsCLIPpings    | NewsCLIPpings: Automatic Generation of Out-of-Context Multimodal Media | [Paper](https://aclanthology.org/2021.emnlp-main.545.pdf)    | [Dataset](https://github.com/g-luo/news_clippings)           |
 | R2VQ             | Designing Multimodal Datasets for NLP Challenges             | [Paper](https://arxiv.org/pdf/2105.05999.pdf)                | [Dataset](https://competitions.codalab.org/competitions/34056) |
 | M2H2             | M2H2: A Multimodal Multiparty Hindi Dataset For Humor Recognition in Conversations |                                                              |                                                              |
+=======
+![datasets-read-notes](https://github.com/isLinXu/issues/assets/59380685/21264a33-8f39-4daf-bd2c-3a7fda3d69c8)
+
+>>>>>>> 89f1563c647e9dae2fa847d0621f735888df4fbb
