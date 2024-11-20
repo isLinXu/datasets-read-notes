@@ -1,81 +1,81 @@
-category,index
-person,0
-"bicycle	",1
-car,2
-motorcycle,3
-airplane,4
-bus,5
-train,6
-truck,7
-boat,8
-traffic light,9
-fire hydrant,10
-stop sign,11
-parking mete,12
-bench,13
-bird,14
-cat,15
-dog,16
-horse,17
-sheep,18
-cow,19
-elephant,20
-bear,21
-zebra,22
-giraffe,23
-backpack,24
-umbrella,25
-handbag,26
-tie,27
-suitcase,28
-frisbee,29
-skis,30
-snowboard,31
-sports ball,32
-kite,33
-baseball bat,34
-baseball glove,35
-skateboard,36
-surfboard,37
-tennis racket,38
-bottle,39
-wine glass,40
-cup,41
-fork,42
-knife,43
-spoon,44
-bowl,45
-banana,46
-apple,47
-sandwich,48
-orange,49
-broccoli,50
-carrot,51
-hot dog,52
-pizza,53
-donut,54
-cake,55
-chair,56
-couch,57
-potted plant,58
-bed,59
-dining table,60
-toilet,61
-tv,62
-laptop,63
-mouse,64
-remote,65
-keyboard,66
-cell phone,67
-microwave,68
-oven,69
-toaster,70
-sink,71
-refrigerator,72
-book,73
-clock,74
-vase,75
-scissors,76
-teddy bear,77
-hair drier,78
-toothbrush,79
+category,index,name
+person,0,人
+bicycle,1,自行车
+car,2,汽车
+motorcycle,3,摩托车
+airplane,4,飞机
+bus,5,公共汽车
+train,6,火车
+truck,7,卡车
+boat,8,船
+traffic light,9,红绿灯
+fire hydrant,10,消防栓
+stop sign,11,停车标志
+parking meter,12,停车计时器
+bench,13,长椅
+bird,14,鸟
+cat,15,猫
+dog,16,狗
+horse,17,马
+sheep,18,羊
+cow,19,牛
+elephant,20,大象
+bear,21,熊
+zebra,22,斑马
+giraffe,23,长颈鹿
+backpack,24,背包
+umbrella,25,雨伞
+handbag,26,手提包
+tie,27,领带
+suitcase,28,行李箱
+frisbee,29,飞盘
+skis,30,滑雪板
+snowboard,31,单板滑雪
+sports ball,32,运动球
+kite,33,风筝
+baseball bat,34,棒球棒
+baseball glove,35,棒球手套
+skateboard,36,滑板
+surfboard,37,冲浪板
+tennis racket,38,网球拍
+bottle,39,瓶子
+wine glass,40,酒杯
+cup,41,杯子
+fork,42,叉子
+knife,43,刀
+spoon,44,勺子
+bowl,45,碗
+banana,46,香蕉
+apple,47,苹果
+sandwich,48,三明治
+orange,49,橙子
+broccoli,50,西兰花
+carrot,51,胡萝卜
+hot dog,52,热狗
+pizza,53,披萨
+donut,54,甜甜圈
+cake,55,蛋糕
+chair,56,椅子
+couch,57,沙发
+potted plant,58,盆栽植物
+bed,59,床
+dining table,60,餐桌
+toilet,61,马桶
+tv,62,电视
+laptop,63,笔记本电脑
+mouse,64,鼠标
+remote,65,遥控器
+keyboard,66,键盘
+cell phone,67,手机
+microwave,68,微波炉
+oven,69,烤箱
+toaster,70,烤面包机
+sink,71,水槽
+refrigerator,72,冰箱
+book,73,书
+clock,74,钟
+vase,75,花瓶
+scissors,76,剪刀
+teddy bear,77,泰迪熊
+hair drier,78,吹风机
+toothbrush,79,牙刷

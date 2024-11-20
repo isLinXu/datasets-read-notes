@@ -1,366 +1,366 @@
-category,index
-Person,0
-Sneakers,1
-Chair,2
-Other Shoes,3
-Hat,4
-Car,5
-Lamp,6
-Glasses,7
-Bottle,8
-Desk,9
-Cup,10
-Street Lights,11
-Cabinet/shelf,12
-Handbag/Satchel,13
-Bracelet,14
-Plate,15
-Picture/Frame,16
-Helmet,17
-Book,18
-Gloves,19
-Storage box,20
-Boat,21
-Leather Shoes,22
-Flower,23
-Bench,24
-Potted Plant,25
-Bowl/Basin,26
-Flag,27
-Pillow,28
-Boots,29
-Vase,30
-Microphone,31
-Necklace,32
-Ring,33
-SUV,34
-Wine Glass,35
-Belt,36
-Moniter/TV,37
-Backpack,38
-Umbrella,39
-Traffic Light,40
-Speaker,41
-Watch,42
-Tie,43
-Trash bin Can,44
-Slippers,45
-Bicycle,46
-Stool,47
-Barrel/bucket,48
-Van,49
-Couch,50
-Sandals,51
-Bakset,52
-Drum,53
-Pen/Pencil,54
-Bus,55
-Wild Bird,56
-High Heels,57
-Motorcycle,58
-Guitar,59
-Carpet,60
-Cell Phone,61
-Bread,62
-Camera,63
-Canned,64
-Truck,65
-Traffic cone,66
-Cymbal,67
-Lifesaver,68
-Towel,69
-Stuffed Toy,70
-Candle,71
-Sailboat,72
-Laptop,73
-Awning,74
-Bed,75
-Faucet,76
-Tent,77
-Horse,78
-Mirror,79
-Power outlet,80
-Sink,81
-Apple,82
-Air Conditioner,83
-Knife,84
-Hockey Stick,85
-Paddle,86
-Pickup Truck,87
-Fork,88
-Traffic Sign,89
-Ballon,90
-Tripod,91
-Dog,92
-Spoon,93
-Clock,94
-Pot,95
-Cow,96
-Cake,97
-Dinning Table,98
-Sheep,99
-Hanger,100
-Blackboard/Whiteboard,101
-Napkin,102
-Other Fish,103
-Orange/Tangerine,104
-Toiletry,105
-Keyboard,106
-Tomato,107
-Lantern,108
-Machinery Vehicle,109
-Fan,110
-Green Vegetables,111
-Banana,112
-Baseball Glove,113
-Airplane,114
-Mouse,115
-Train,116
-Pumpkin,117
-Soccer,118
-Skiboard,119
-Luggage,120
-Nightstand,121
-Tea pot,122
-Telephone,123
-Trolley,124
-Head Phone,125
-Sports Car,126
-Stop Sign,127
-Dessert,128
-Scooter,129
-Stroller,130
-Crane,131
-Remote,132
-Refrigerator,133
-Oven,134
-Lemon,135
-Duck,136
-Baseball Bat,137
-Surveillance Camera,138
-Cat,139
-Jug,140
-Broccoli,141
-Piano,142
-Pizza,143
-Elephant,144
-Skateboard,145
-Surfboard,146
-Gun,147
-Skating and Skiing shoes,148
-Gas stove,149
-Donut,150
-Bow Tie,151
-Carrot,152
-Toilet,153
-Kite,154
-Strawberry,155
-Other Balls,156
-Shovel,157
-Pepper,158
-Computer Box,159
-Toilet Paper,160
-Cleaning Products,161
-Chopsticks,162
-Microwave,163
-Pigeon,164
-Baseball,165
-Cutting/chopping Board,166
-Coffee Table,167
-Side Table,168
-Scissors,169
-Marker,170
-Pie,171
-Ladder,172
-Snowboard,173
-Cookies,174
-Radiator,175
-Fire Hydrant,176
-Basketball,177
-Zebra,178
-Grape,179
-Giraffe,180
-Potato,181
-Sausage,182
-Tricycle,183
-Violin,184
-Egg,185
-Fire Extinguisher,186
-Candy,187
-Fire Truck,188
-Billards,189
-Converter,190
-Bathtub,191
-Wheelchair,192
-Golf Club,193
-Briefcase,194
-Cucumber,195
-Cigar/Cigarette ,196
-Paint Brush,197
-Pear,198
-Heavy Truck,199
-Hamburger,200
-Extractor,201
-Extention Cord,202
-Tong,203
-Tennis Racket,204
-Folder,205
-American Football,206
-earphone,207
-Mask,208
-Kettle,209
-Tennis,210
-Ship,211
-Swing,212
-Coffee Machine,213
-Slide,214
-Carriage,215
-Onion,216
-Green beans,217
-Projector,218
-Frisbee,219
-Washing Machine/Drying Machine,220
-Chicken,221
-Printer,222
-Watermelon,223
-Saxophone,224
-Tissue,225
-Toothbrush,226
-Ice cream,227
-Hotair ballon,228
-Cello,229
-French Fries,230
-Scale,231
-Trophy,232
-Cabbage,233
-Hot dog,234
-Blender,235
-Peach,236
-Rice,237
-Wallet/Purse,238
-Volleyball,239
-Deer,240
-Goose,241
-Tape,242
-Tablet,243
-Cosmetics,244
-Trumpet,245
-Pineapple,246
-Golf Ball,247
-Ambulance,248
-Parking meter,249
-Mango,250
-Key,251
-Hurdle,252
-Fishing Rod,253
-Medal,254
-Flute,255
-Brush,256
-Penguin,257
-Megaphone,258
-Corn,259
-Lettuce,260
-Garlic,261
-Swan,262
-Helicopter,263
-Green Onion,264
-Sandwich,265
-Nuts,266
-Speed Limit Sign,267
-Induction Cooker,268
-Broom,269
-Trombone,270
-Plum,271
-Rickshaw,272
-Goldfish,273
-Kiwi fruit,274
-Router/modem,275
-Poker Card,276
-Toaster,277
-Shrimp,278
-Sushi,279
-Cheese,280
-Notepaper,281
-Cherry,282
-Pliers,283
-CD,284
-Pasta,285
-Hammer,286
-Cue,287
-Avocado,288
-Hamimelon,289
-Flask,290
-Mushroon,291
-Screwdriver,292
-Soap,293
-Recorder,294
-Bear,295
-Eggplant,296
-Board Eraser,297
-Coconut,298
-Tape Measur/ Ruler,299
-Pig,300
-Showerhead,301
-Globe,302
-Chips,303
-Steak,304
-Crosswalk Sign,305
-Stapler,306
-Campel,307
-Formula 1 ,308
-Pomegranate,309
-Dishwasher,310
-Crab,311
-Hoverboard,312
-Meat ball,313
-Rice Cooker,314
-Tuba,315
-Calculator,316
-Papaya,317
-Antelope,318
-Parrot,319
-Seal,320
-Buttefly,321
-Dumbbell,322
-Donkey,323
-Lion,324
-Urinal,325
-Dolphin,326
-Electric Drill,327
-Hair Dryer,328
-Egg tart,329
-Jellyfish,330
-Treadmill,331
-Lighter,332
-Grapefruit,333
-Game board,334
-Mop,335
-Radish,336
-Baozi,337
-Target,338
-French,339
-Spring Rolls,340
-Monkey,341
-Rabbit,342
-Pencil Case,343
-Yak,344
-Red Cabbage,345
-Binoculars,346
-Asparagus,347
-Barbell,348
-Scallop,349
-Noddles,350
-Comb,351
-Dumpling,352
-Oyster,353
-Table Teniis paddle,354
-Cosmetics Brush/Eyeliner Pencil,355
-Chainsaw,356
-Eraser,357
-Lobster,358
-Durian,359
-Okra,360
-Lipstick,361
-Cosmetics Mirror,362
-Curling,363
-Table Tennis ,364
+category,index,name
+Person,0,人
+Sneakers,1,运动鞋
+Chair,2,椅子
+Other Shoes,3,其他鞋子
+Hat,4,帽子
+Car,5,汽车
+Lamp,6,灯
+Glasses,7,眼镜
+Bottle,8,瓶子
+Desk,9,桌子
+Cup,10,杯子
+Street Lights,11,路灯
+Cabinet/shelf,12,柜子/架子
+Handbag/Satchel,13,手提包/挎包
+Bracelet,14,手镯
+Plate,15,盘子
+Picture/Frame,16,图片/相框
+Helmet,17,头盔
+Book,18,书
+Gloves,19,手套
+Storage box,20,储物箱
+Boat,21,船
+Leather Shoes,22,皮鞋
+Flower,23,花
+Bench,24,长凳
+Potted Plant,25,盆栽植物
+Bowl/Basin,26,碗/盆
+Flag,27,旗帜
+Pillow,28,枕头
+Boots,29,靴子
+Vase,30,花瓶
+Microphone,31,麦克风
+Necklace,32,项链
+Ring,33,戒指
+SUV,34,越野车
+Wine Glass,35,酒杯
+Belt,36,腰带
+Moniter/TV,37,显示器/电视
+Backpack,38,背包
+Umbrella,39,雨伞
+Traffic Light,40,红绿灯
+Speaker,41,扬声器
+Watch,42,手表
+Tie,43,领带
+Trash bin Can,44,垃圾桶
+Slippers,45,拖鞋
+Bicycle,46,自行车
+Stool,47,凳子
+Barrel/bucket,48,桶
+Van,49,货车
+Couch,50,沙发
+Sandals,51,凉鞋
+Bakset,52,篮子
+Drum,53,鼓
+Pen/Pencil,54,笔/铅笔
+Bus,55,公交车
+Wild Bird,56,野鸟
+High Heels,57,高跟鞋
+Motorcycle,58,摩托车
+Guitar,59,吉他
+Carpet,60,地毯
+Cell Phone,61,手机
+Bread,62,面包
+Camera,63,相机
+Canned,64,罐头
+Truck,65,卡车
+Traffic cone,66,交通锥
+Cymbal,67,钹
+Lifesaver,68,救生圈
+Towel,69,毛巾
+Stuffed Toy,70,毛绒玩具
+Candle,71,蜡烛
+Sailboat,72,帆船
+Laptop,73,笔记本电脑
+Awning,74,遮阳篷
+Bed,75,床
+Faucet,76,水龙头
+Tent,77,帐篷
+Horse,78,马
+Mirror,79,镜子
+Power outlet,80,电源插座
+Sink,81,水槽
+Apple,82,苹果
+Air Conditioner,83,空调
+Knife,84,刀
+Hockey Stick,85,曲棍球棒
+Paddle,86,桨
+Pickup Truck,87,皮卡
+Fork,88,叉子
+Traffic Sign,89,交通标志
+Ballon,90,气球
+Tripod,91,三脚架
+Dog,92,狗
+Spoon,93,勺子
+Clock,94,钟
+Pot,95,锅
+Cow,96,牛
+Cake,97,蛋糕
+Dinning Table,98,餐桌
+Sheep,99,羊
+Hanger,100,衣架
+Blackboard/Whiteboard,101,黑板/白板
+Napkin,102,餐巾
+Other Fish,103,其他鱼类
+Orange/Tangerine,104,橙子/橘子
+Toiletry,105,洗漱用品
+Keyboard,106,键盘
+Tomato,107,西红柿
+Lantern,108,灯笼
+Machinery Vehicle,109,机械车
+Fan,110,风扇
+Green Vegetables,111,绿叶蔬菜
+Banana,112,香蕉
+Baseball Glove,113,棒球手套
+Airplane,114,飞机
+Mouse,115,鼠标
+Train,116,火车
+Pumpkin,117,南瓜
+Soccer,118,足球
+Skiboard,119,滑雪板
+Luggage,120,行李
+Nightstand,121,床头柜
+Tea pot,122,茶壶
+Telephone,123,电话
+Trolley,124,手推车
+Head Phone,125,耳机
+Sports Car,126,跑车
+Stop Sign,127,停车标志
+Dessert,128,甜点
+Scooter,129,滑板车
+Stroller,130,婴儿车
+Crane,131,起重机
+Remote,132,遥控器
+Refrigerator,133,冰箱
+Oven,134,烤箱
+Lemon,135,柠檬
+Duck,136,鸭子
+Baseball Bat,137,棒球棒
+Surveillance Camera,138,监控摄像头
+Cat,139,猫
+Jug,140,水壶
+Broccoli,141,西兰花
+Piano,142,钢琴
+Pizza,143,披萨
+Elephant,144,大象
+Skateboard,145,滑板
+Surfboard,146,冲浪板
+Gun,147,枪
+Skating and Skiing shoes,148,滑冰和滑雪鞋
+Gas stove,149,煤气灶
+Donut,150,甜甜圈
+Bow Tie,151,领结
+Carrot,152,胡萝卜
+Toilet,153,马桶
+Kite,154,风筝
+Strawberry,155,草莓
+Other Balls,156,其他球类
+Shovel,157,铲子
+Pepper,158,辣椒
+Computer Box,159,电脑主机
+Toilet Paper,160,卫生纸
+Cleaning Products,161,清洁用品
+Chopsticks,162,筷子
+Microwave,163,微波炉
+Pigeon,164,鸽子
+Baseball,165,棒球
+Cutting/chopping Board,166,砧板
+Coffee Table,167,咖啡桌
+Side Table,168,边桌
+Scissors,169,剪刀
+Marker,170,马克笔
+Pie,171,馅饼
+Ladder,172,梯子
+Snowboard,173,单板滑雪
+Cookies,174,饼干
+Radiator,175,暖气片
+Fire Hydrant,176,消防栓
+Basketball,177,篮球
+Zebra,178,斑马
+Grape,179,葡萄
+Giraffe,180,长颈鹿
+Potato,181,土豆
+Sausage,182,香肠
+Tricycle,183,三轮车
+Violin,184,小提琴
+Egg,185,鸡蛋
+Fire Extinguisher,186,灭火器
+Candy,187,糖果
+Fire Truck,188,消防车
+Billards,189,台球
+Converter,190,转换器
+Bathtub,191,浴缸
+Wheelchair,192,轮椅
+Golf Club,193,高尔夫球杆
+Briefcase,194,公文包
+Cucumber,195,黄瓜
+Cigar/Cigarette,196,雪茄/香烟
+Paint Brush,197,画笔
+Pear,198,梨
+Heavy Truck,199,重型卡车
+Hamburger,200,汉堡
+Extractor,201,抽油烟机
+Extention Cord,202,延长线
+Tong,203,夹子
+Tennis Racket,204,网球拍
+Folder,205,文件夹
+American Football,206,美式足球
+Earphone,207,耳机
+Mask,208,口罩
+Kettle,209,水壶
+Tennis,210,网球
+Ship,211,船
+Swing,212,秋千
+Coffee Machine,213,咖啡机
+Slide,214,滑梯
+Carriage,215,马车
+Onion,216,洋葱
+Green beans,217,绿豆
+Projector,218,投影仪
+Frisbee,219,飞盘
+Washing Machine/Drying Machine,220,洗衣机/烘干机
+Chicken,221,鸡
+Printer,222,打印机
+Watermelon,223,西瓜
+Saxophone,224,萨克斯
+Tissue,225,纸巾
+Toothbrush,226,牙刷
+Ice cream,227,冰淇淋
+Hotair balloon,228,热气球
+Cello,229,大提琴
+French Fries,230,薯条
+Scale,231,秤
+Trophy,232,奖杯
+Cabbage,233,卷心菜
+Hot dog,234,热狗
+Blender,235,搅拌机
+Peach,236,桃子
+Rice,237,米饭
+Wallet/Purse,238,钱包/手提包
+Volleyball,239,排球
+Deer,240,鹿
+Goose,241,鹅
+Tape,242,胶带
+Tablet,243,平板电脑
+Cosmetics,244,化妆品
+Trumpet,245,小号
+Pineapple,246,菠萝
+Golf Ball,247,高尔夫球
+Ambulance,248,救护车
+Parking meter,249,停车计时器
+Mango,250,芒果
+Key,251,钥匙
+Hurdle,252,跨栏
+Fishing Rod,253,钓鱼竿
+Medal,254,奖牌
+Flute,255,长笛
+Brush,256,刷子
+Penguin,257,企鹅
+Megaphone,258,扩音器
+Corn,259,玉米
+Lettuce,260,生菜
+Garlic,261,大蒜
+Swan,262,天鹅
+Helicopter,263,直升机
+Green Onion,264,葱
+Sandwich,265,三明治
+Nuts,266,坚果
+Speed Limit Sign,267,限速标志
+Induction Cooker,268,电磁炉
+Broom,269,扫帚
+Trombone,270,长号
+Plum,271,李子
+Rickshaw,272,黄包车
+Goldfish,273,金鱼
+Kiwi fruit,274,猕猴桃
+Router/modem,275,路由器/调制解调器
+Poker Card,276,扑克牌
+Toaster,277,烤面包机
+Shrimp,278,虾
+Sushi,279,寿司
+Cheese,280,奶酪
+Notepaper,281,便签纸
+Cherry,282,樱桃
+Pliers,283,钳子
+CD,284,光盘
+Pasta,285,意大利面
+Hammer,286,锤子
+Cue,287,台球杆
+Avocado,288,鳄梨
+Hamimelon,289,哈密瓜
+Flask,290,烧瓶
+Mushroom,291,蘑菇
+Screwdriver,292,螺丝刀
+Soap,293,肥皂
+Recorder,294,录音机
+Bear,295,熊
+Eggplant,296,茄子
+Board Eraser,297,板擦
+Coconut,298,椰子
+Tape Measure/Ruler,299,卷尺/尺子
+Pig,300,猪
+Showerhead,301,淋浴喷头
+Globe,302,地球仪
+Chips,303,薯片
+Steak,304,牛排
+Crosswalk Sign,305,人行横道标志
+Stapler,306,订书机
+Camel,307,骆驼
+Formula 1,308,一级方程式赛车
+Pomegranate,309,石榴
+Dishwasher,310,洗碗机
+Crab,311,螃蟹
+Hoverboard,312,平衡车
+Meatball,313,肉丸
+Rice Cooker,314,电饭煲
+Tuba,315,大号
+Calculator,316,计算器
+Papaya,317,木瓜
+Antelope,318,羚羊
+Parrot,319,鹦鹉
+Seal,320,海豹
+Butterfly,321,蝴蝶
+Dumbbell,322,哑铃
+Donkey,323,驴
+Lion,324,狮子
+Urinal,325,小便池
+Dolphin,326,海豚
+Electric Drill,327,电钻
+Hair Dryer,328,吹风机
+Egg tart,329,蛋挞
+Jellyfish,330,水母
+Treadmill,331,跑步机
+Lighter,332,打火机
+Grapefruit,333,葡萄柚
+Game board,334,棋盘
+Mop,335,拖把
+Radish,336,萝卜
+Baozi,337,包子
+Target,338,靶子
+French,339,法棍
+Spring Rolls,340,春卷
+Monkey,341,猴子
+Rabbit,342,兔子
+Pencil Case,343,铅笔盒
+Yak,344,牦牛
+Red Cabbage,345,红卷心菜
+Binoculars,346,双筒望远镜
+Asparagus,347,芦笋
+Barbell,348,杠铃
+Scallop,349,扇贝
+Noodles,350,面条
+Comb,351,梳子
+Dumpling,352,饺子
+Oyster,353,牡蛎
+Table Tennis paddle,354,乒乓球拍
+Cosmetics Brush/Eyeliner Pencil,355,化妆刷/眼线笔
+Chainsaw,356,电锯
+Eraser,357,橡皮擦
+Lobster,358,龙虾
+Durian,359,榴莲
+Okra,360,秋葵
+Lipstick,361,口红
+Cosmetics Mirror,362,化妆镜
+Curling,363,冰壶
+Table Tennis,364,乒乓球
